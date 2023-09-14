@@ -1,7 +1,6 @@
 # Getting Started with Create React App
  You can find the deployment on this [Demo](https://digi-clock-1198.netlify.app/) .    
 
-This project was bootstrapped with [Create React App](https://digi-clock-1198.netlify.app/).
 
 ## Available Scripts
 
