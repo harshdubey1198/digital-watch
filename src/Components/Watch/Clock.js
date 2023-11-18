@@ -18,7 +18,6 @@ function Clock() {
   const seconds = time.getSeconds().toString().padStart(2, '0');
   const ampm = hours >= 12 ? 'PM' : 'AM';
 
-  // Convert 24-hour format to 12-hour format
   const hours12 = (hours % 12) || 12;
 
   return (
